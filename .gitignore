@@ -4,3 +4,14 @@
 
 framework
 
+framework.h
+*.ico
+*.rc
+*.sln
+*.vcxproj
+*.filters
+*.user
+Resource.h,targetver.h
+*/Resource.h,*/targetver.h
+TextOut/Resource.h
+TextOut/targetver.h
