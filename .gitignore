@@ -12,6 +12,11 @@ framework.h
 *.filters
 *.user
 Resource.h,targetver.h
-*/Resource.h,*/targetver.h
+*/Resource.h,
+*/targetver.h
+*/*/Resource.h,
+*/*/targetver.h
+
+
 TextOut/Resource.h
 TextOut/targetver.h
