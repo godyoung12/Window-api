@@ -20,3 +20,4 @@ Resource.h,targetver.h
 
 TextOut/Resource.h
 TextOut/targetver.h
+DrawText/Resource.h,GraphOut/Resource.h,MessageBox/Resource.h
